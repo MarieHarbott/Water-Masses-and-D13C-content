@@ -1,17 +1,15 @@
 The Repository shows a short introduction of the Master Thesis " The modern carbon isotope signature of preindustrial water masses in the western subpolar North Atlantic" by Marie Harbott
 
 # Water-Masses-and-D13C-content
-The modern carbon isotope signature of preindustrial water masses in the western subpolar North Atlantic
 
 In recent years the question of how ocean circulation will change with climate
 change has risen due to the changing climate system and with that interactions
 between the ocean and the atmorphere. One important region is the western subpolar
 North Atlantic where deep Labrador Sea Water is formed, which is a crucial
 component of the Deep Western Boundary Current.
+[!Map]]
 
-
-Nevertheless, Labrador Sea
-Water does not form every year and the circumstances when it forms are not
+Nevertheless, Labrador Sea Water does not form every year and the circumstances when it forms are not
 entirely understood. With temperature, salinity and oxygen data from the survey
 of the Maria S Merian (MSM39) it could be established that during the winter of
 2013/2014 deep Labrador Sea Water was not formed but the western subpolar
