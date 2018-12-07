@@ -4,9 +4,7 @@ The Repository shows a short introduction of the Master Thesis " The modern carb
 
 In recent years the question of how ocean circulation will change with climate
 change has risen due to the changing climate system and with that interactions
-between the ocean and the atmorphere. One important region is the western subpolar
-North Atlantic where deep Labrador Sea Water is formed, which is a crucial
-component of the Deep Western Boundary Current.
+between the ocean and the atmosphere. One important region is the western subpolar North Atlantic where deep Labrador Sea Water is formed, which is a crucial component of the Deep Western Boundary Current. Warmer surface water is pulled north by the gulf stream. On its way north the surface water subsequently cools down due to the air-sea exchange and sinks, forming the deep water components. 
 
 
 ![karte_entwurf](https://user-images.githubusercontent.com/45688996/49657740-ad786680-fa40-11e8-9f82-47d3ab1c346e.png)
@@ -14,7 +12,15 @@ component of the Deep Western Boundary Current.
 
 
 Nevertheless, Labrador Sea Water does not form every year and the circumstances when it forms are not
-entirely understood. With temperature, salinity and oxygen data from the survey
+entirely understood. The strength of the Atlantic Meridonial Overturning Circulation is however, directly influenced by the formation of deep Labrador Sea Water and with that our climate.
+
+The formation and ventilation rate of Labrador Sea Water can be investigated with gases from the atmosphere such as CO2, which is incorporated into surface water parcels by sea-air gas exchange. With the formation of deep water the gases are taken into deeper ocean layers and act hereby as a signature characteristic for water masses. The carbon isotope content of the different water masses can give insights into the ventilation strenght. Due to fossil analysis 
+
+The first part of this project was to establish  if deep Labrador Sea Water had formed from data collected during the survey of Maria S Merian (MSM39)in 2015.
+
+
+
+With temperature, salinity and oxygen data from the survey
 of the Maria S Merian (MSM39) it could be established that during the winter of
 2013/2014 deep Labrador Sea Water was not formed but the western subpolar
 North Atlantic was preconditioned for the formation the following years. The distribution
