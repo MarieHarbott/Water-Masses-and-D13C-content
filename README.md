@@ -7,7 +7,11 @@ change has risen due to the changing climate system and with that interactions
 between the ocean and the atmorphere. One important region is the western subpolar
 North Atlantic where deep Labrador Sea Water is formed, which is a crucial
 component of the Deep Western Boundary Current.
-[!Map]]
+
+
+![karte_entwurf](https://user-images.githubusercontent.com/45688996/49657740-ad786680-fa40-11e8-9f82-47d3ab1c346e.png)
+
+
 
 Nevertheless, Labrador Sea Water does not form every year and the circumstances when it forms are not
 entirely understood. With temperature, salinity and oxygen data from the survey
