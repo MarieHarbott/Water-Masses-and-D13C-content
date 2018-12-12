@@ -1,6 +1,6 @@
 The Repository shows a short introduction of the Master Thesis " The modern carbon isotope signature of preindustrial water masses in the western subpolar North Atlantic" by Marie Harbott
 
-# Introduction
+## Introduction
 
 In recent years the question of how ocean circulation will change with climate
 change has risen due to the changing climate system and with that interactions
@@ -20,10 +20,17 @@ The first part of this project was to establish  if deep Labrador Sea Water had 
 
 However, this framework cannot be used without the correction of the Suess-Effect, an effect that is caused by human activity. Due to the burning of fossil fuel and land use change more of th lighter C12 isotope is put into the atmosphere changing the ratio between C13 and C12 and with that the D13C isotopic signal. So to use the measured D13C signature the preindustrial signature has to be reconstructed as well.
 
-# Methods
+## Methods
 
 Water masses are defined by potential temperature, salinitty, oxygen and density range as well as gases incorporated in water parcels. These ranges were pre-established by Pickart et al. (1997) and Stramma et al. (2004) and were used as references for this work. 
  (Graph density)
  
-## The reconstruction
+### The reconstruction
+Two methods were used to reconstruct the preindsutrial D13C values from the measured D13C values. The first method is based on Olsen and Ninnemann (2010) and uses another atmospheric gas as a reference gas for the atmospheric history of CO2.
 
+The second method is based on Olsen and Ninnemann (2010). Eide et al. (2017) established a correlation between the apparent oxygen utilization and the preindustrial D13C so in using the apparent oxygen utilisation of MSM39 in 2015 the correlation leads to the preindustrial values.
+
+## Hydrography
+
+The results show that during the winter of 2013/2014 no new deep Labrador Sea water was formed, however, upper labrador sea water, another mode of Labrador Sea water was formed and reached depths of up to 1200 m. This led to the preconditioning of the Labrador sea and the formation of fresh Labrador Sea water the following year, the first since the formation of Labrador Sea water in the mid 90ies and 2008. 
+The reconstruction of the preindustrial carbon isotope values shows similar results for both methods. In both cases the entire water column is affected by the Suess-effect and after applying the correction to the measured D13C signal the ocean shows a stronger ventilation pattern. Nevertheless, the reference gas used for both methods was banned in th early 2000s and has been declining since. For further studies another reference gas should be used to insure the quality of the preindustrial D13C values. 
