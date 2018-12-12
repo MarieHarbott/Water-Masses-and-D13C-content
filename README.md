@@ -1,6 +1,6 @@
 The Repository shows a short introduction of the Master Thesis " The modern carbon isotope signature of preindustrial water masses in the western subpolar North Atlantic" by Marie Harbott
 
-# Water-Masses-and-D13C-content
+# Introduction
 
 In recent years the question of how ocean circulation will change with climate
 change has risen due to the changing climate system and with that interactions
@@ -14,26 +14,16 @@ between the ocean and the atmosphere. One important region is the western subpol
 Nevertheless, Labrador Sea Water does not form every year and the circumstances when it forms are not
 entirely understood. The strength of the Atlantic Meridonial Overturning Circulation is however, directly influenced by the formation of deep Labrador Sea Water and with that our climate.
 
-The formation and ventilation rate of Labrador Sea Water can be investigated with gases from the atmosphere such as CO2, which is incorporated into surface water parcels by sea-air gas exchange. With the formation of deep water the gases are taken into deeper ocean layers and act hereby as a signature characteristic for water masses. The carbon isotope content of the different water masses can give insights into the ventilation strenght. Due to fossil analysis 
+The formation and ventilation rate of Labrador Sea Water can be investigated with gases from the atmosphere such as CO2, which is incorporated into surface water parcels by sea-air gas exchange. With the formation of deep water the gases are taken into deeper ocean layers and act hereby as a signature characteristic for water masses. The carbon isotope content of the different water masses can give insights into the ventilation strenght. Past ventialtion strenghts can be reconstructed from fossils that incorporate carbon into theirs shell and with that preserve the isotopic signal.
 
-The first part of this project was to establish  if deep Labrador Sea Water had formed from data collected during the survey of Maria S Merian (MSM39)in 2015.
+The first part of this project was to establish  if deep Labrador Sea Water had formed from data collected during the survey of Maria S Merian (MSM39)in 2015, while the second part was to show the carbon isotope signature for the different water masses as a framework for paleo signatures reconstructed from fossils.
 
+However, this framework cannot be used without the correction of the Suess-Effect, an effect that is caused by human activity. Due to the burning of fossil fuel and land use change more of th lighter C12 isotope is put into the atmosphere changing the ratio between C13 and C12 and with that the D13C isotopic signal. So to use the measured D13C signature the preindustrial signature has to be reconstructed as well.
 
+# Methods
 
-With temperature, salinity and oxygen data from the survey
-of the Maria S Merian (MSM39) it could be established that during the winter of
-2013/2014 deep Labrador Sea Water was not formed but the western subpolar
-North Atlantic was preconditioned for the formation the following years. The distribution
-of water masses during MSM39 gives us an idea about the composition of
-δ13C, measured from samples taken during MSM39, for each water mass, which
-is used as a framework to compare to paleo δ13C ocean distribution. However, today
-the natural δ13C composition is strongly overprinted by anthropogenic carbon
-dioxide. This so called C-Suess Effect has to be corrected for the modern ocean
-δ13C distribution during MSM39. Two methods were used to reach the preindustrial
-δ13C. The first is the two-stage-back calcutlation already applied by Olsen and
-Ninnemann (2010) that useses the relationship between CFC-12 and δ13C. The
-second method was established by Eide et al. (2017) and shows a linear relation
-between AOU and the preindustrial δ13C that was applied to the obserevd oxygen
-from MSM39. Both methods come to a similar preindustrial ocean distribution of
-δ13C with an ocean structure that shows a tongue of high δ13C showing the lighter
-Labrador Sea Water and a Suess effect that affects the entire water column.
+Water masses are defined by potential temperature, salinitty, oxygen and density range as well as gases incorporated in water parcels. These ranges were pre-established by Pickart et al. (1997) and Stramma et al. (2004) and were used as references for this work. 
+ (Graph density)
+ 
+## The reconstruction
+
