@@ -23,7 +23,8 @@ However, this framework cannot be used without the correction of the Suess-Effec
 ## Methods
 
 Water masses are defined by potential temperature, salinitty, oxygen and density range as well as gases incorporated in water parcels. These ranges were pre-established by Pickart et al. (1997) and Stramma et al. (2004) and were used as references for this work. 
- (Graph density)
+
+![tsozoom](https://user-images.githubusercontent.com/45688996/50000919-6e479980-ff9b-11e8-85a0-062a4a73de29.GIF)
  
 ### The reconstruction
 Two methods were used to reconstruct the preindsutrial D13C values from the measured D13C values. The first method is based on Olsen and Ninnemann (2010) and uses another atmospheric gas as a reference gas for the atmospheric history of CO2.
@@ -33,4 +34,6 @@ The second method is based on Olsen and Ninnemann (2010). Eide et al. (2017) est
 ## Hydrography
 
 The results show that during the winter of 2013/2014 no new deep Labrador Sea water was formed, however, upper labrador sea water, another mode of Labrador Sea water was formed and reached depths of up to 1200 m. This led to the preconditioning of the Labrador sea and the formation of fresh Labrador Sea water the following year, the first since the formation of Labrador Sea water in the mid 90ies and 2008. 
+
+
 The reconstruction of the preindustrial carbon isotope values shows similar results for both methods. In both cases the entire water column is affected by the Suess-effect and after applying the correction to the measured D13C signal the ocean shows a stronger ventilation pattern. Nevertheless, the reference gas used for both methods was banned in th early 2000s and has been declining since. For further studies another reference gas should be used to insure the quality of the preindustrial D13C values. 
