@@ -35,5 +35,6 @@ The second method is based on Olsen and Ninnemann (2010). Eide et al. (2017) est
 
 The results show that during the winter of 2013/2014 no new deep Labrador Sea water was formed, however, upper labrador sea water, another mode of Labrador Sea water was formed and reached depths of up to 1200 m. This led to the preconditioning of the Labrador sea and the formation of fresh Labrador Sea water the following year, the first since the formation of Labrador Sea water in the mid 90ies and 2008. 
 
+![tso_wm3](https://user-images.githubusercontent.com/45688996/50001074-f9289400-ff9b-11e8-8271-4bdd395d77f3.png)
 
 The reconstruction of the preindustrial carbon isotope values shows similar results for both methods. In both cases the entire water column is affected by the Suess-effect and after applying the correction to the measured D13C signal the ocean shows a stronger ventilation pattern. Nevertheless, the reference gas used for both methods was banned in th early 2000s and has been declining since. For further studies another reference gas should be used to insure the quality of the preindustrial D13C values. 
